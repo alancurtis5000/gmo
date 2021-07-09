@@ -1,0 +1,3 @@
+when lauching app making it live.
+- need to update auth0 account > app > application uri's from localhost
+- if i need to store information of user, use the "sub" in the "user".
